@@ -8,7 +8,7 @@ username: admin
 passwd: admin
 ```
 mvn sonar:sonar \
-  -Dsonar.host.url=http://35.190.154.219:9000 \
+  -Dsonar.host.url=http://34.73.200.213:9000 \
   -Dsonar.login=a8e62abe08f89e6cc74de5c8a2fba9dd6de75d96
 ```
 ### Maven
